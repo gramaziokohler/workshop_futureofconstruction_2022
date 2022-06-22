@@ -1,0 +1,12 @@
+name: fc22
+channels:
+    - conda-forge
+
+dependencies:
+   - python=3.9
+   - pip
+   - git
+   - compas=1.16
+   - compas_fab=0.26
+   - compas_cgal=0.4
+   - compas_rrc=1.1
