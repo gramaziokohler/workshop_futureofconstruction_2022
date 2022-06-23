@@ -4,7 +4,7 @@
 
 ## Information
 
-[COMPAS docs](https://compas.dev)
+[🎦 Slides](https://docs.google.com/presentation/d/1VXJAaDjAaokEzYk_VNOW5IydajBONvwMLQL9rejoyxo) | [📃 COMPAS docs](https://compas.dev)
 
 ## Requirements
 
@@ -40,6 +40,10 @@ Make sure you run this at least once:
 
 ### Get the workshop files
 
+Download the [zip file from Github](https://github.com/gramaziokohler/workshop_futureofconstruction_2022/archive/refs/heads/main.zip).
+
+Or optionally, clone the repository instead:
+
     (fc22) cd Documents
     (fc22) git clone https://github.com/gramaziokohler/workshop_futureofconstruction_2022.git
 
@@ -50,11 +54,11 @@ Make sure you run this at least once:
     Yay! COMPAS is installed correctly!
 
     COMPAS: 1.16.0
-    Python: 3.9.10 | packaged by conda-forge | (default, May 11 2021, 06:25:23) [MSC v.1916 64 bit (AMD64)]
+    Python: 3.9.13 (CPython)
     Extensions: ['compas-fab', 'compas-cgal', 'compas-rrc']
 
 ### Update installation
 
 To update your environment:
 
-    (fc22) conda env update -f https://dfab.link/fs2022.yml
+    (fc22) conda env update -f https://dfab.link/fc22.yml
